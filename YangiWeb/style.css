@@ -1,0 +1,183 @@
+body {
+	background-color: black;
+	background-image: url(orqa.jpg);
+	background-repeat: no-repeat;
+	margin:0;
+	border: 0;
+	padding: 0;
+}
+.bosh {
+	text-align: center;
+	color: white;
+
+}
+.rasmlar img {
+	margin-right: 30px;
+}
+.bosh {
+
+	font-family: consolas;
+
+}
+
+.uy,.kirish,.ruyxatdan,.haqida {	
+
+	font-size: 20px;
+	border: 1px solid #222;
+	padding: 5px 15px;
+	border-radius: 10px;
+}
+.uy:hover {
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	transition: 1s;
+
+}
+.kirish:hover {
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	transition: 1s;
+
+}
+.tugmalar1 {
+	margin-left: 20px;
+}
+.ruyxatdan:hover{
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	transition: 1s;
+}
+.imgsoz {
+	color: #fff;
+	text-align: center;
+	margin-top: 40px;
+	font-family: consolas;
+
+}
+.haqida:hover{
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	transition: 1s;
+}
+.tag {
+	margin-top: 40px;
+	text-align: center;
+	background-color: black	;
+	color: #fff;
+	padding: 0.011px;
+
+}	
+.Dasturlashda {
+	background-image: url(yangi.jpg);
+	
+	background-repeat: no-repeat;
+	background-color: #04fbdf7b;
+	color: #555555;
+	text-align: left;
+	margin-top: 120px;
+}
+.Dasturlashda li {
+	padding-top: 40px;
+	font-size:45px ;
+	margin-left: 50px;
+	color: black;
+
+}
+.Dasturlashda a{
+	color:darkblue;
+	font-family: Arial Black;
+	background-color: black;
+	border: 2px;
+	background-color: white;
+	border-block: white;
+}
+.python {
+	height:300px ;	
+	width:300px ;	
+}
+.ff {
+	height:300px;
+	width:300px;
+	margin-left: 15px;
+
+}
+.play {
+	height: 300px;
+	width: 300px;
+}
+.text {
+	width:300px;
+	height: 300px;
+}
+.tag h4 {
+	font-family: consolas;
+}
+.music {
+	text-align: center;
+	font-family: consolas;
+	
+
+}
+.fairytale {
+	width:400px ;
+	margin-left: 45px;
+}
+.getlucky {
+	width: 400px;
+	margin-left: 20px;
+}
+.kotik {
+	width: 400px;
+	margin-left: 20px;
+}
+.shapeofyou {
+	width: 400px;
+	margin-left: 45px;
+	margin-top: 30px;
+}
+
+.music h2 {
+	margin-bottom: 30px;
+	padding-bottom: 20px;
+}
+.roll {
+	width: 400px;
+	height: 225px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.nuqtalar .tlg {
+	height:65px ;
+	width:65px ;
+}
+.nuqtalar .face {
+	height: 70px;
+	width: 70px;
+	margin-left: 20px;
+}
+.nuqtalar .fff {
+	height: 70px;
+	width: 70px;
+	margin-left: 20px;
+}
+.nuqtalar {
+	text-align: center;
+}
+.nuqtalar img {
+	margin-top: 30px;
+	border-radius: 50%;
+}
+.skies {
+	width: 400px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.mrasmlar {
+	background-image: url(fon.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}

@@ -1,0 +1,66 @@
+
+.myForm label {
+	display: block;
+	font-size: 30px;
+
+}
+.myForm input {
+	margin: 5px 0;
+	padding: 2px 0px;
+	height: 50%;
+	width: 50%;
+}
+.submit {
+	background-color: burlywood;
+	font-size: 20px;
+	border: 1px solid #222;
+	padding: 5px 15px;
+	border-radius: 10px;
+}
+.submit:hover {
+	cursor: pointer;
+	background-color: black;
+	color: blue;
+}
+body {
+	background-color: black;
+	margin-top: 20;
+}
+.uy,.kirish,.ruyxatdan,.haqida {	
+
+	font-size: 20px;
+	border: 1px solid #222;
+	padding: 5px 15px;
+	border-radius: 10px;
+}
+.tugmalar4 {
+	margin-top: 17px;
+	margin-left: 13px;
+}	
+}
+.uy:hover {
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	transition: 1s;
+
+}
+.kirish:hover {
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	transition: 1s;
+
+}
+.ruyxatdan:hover{
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	transition: 1s;
+}
+.haqida:hover{
+	cursor: pointer;
+	background-color: black;
+	color: white;
+	transition: 1s;
+}

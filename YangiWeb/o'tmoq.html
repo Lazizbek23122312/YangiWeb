@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=">
+	<link rel="stylesheet" href="o'tmoq.css">
+	<title>Sign in</title>
+	<script>
+		function Showword() {
+			var wordElement = document.getElementById('word');
+			wordElement.innerHTML = "Sizning arizangiz qabul qilindi 'Log in' komandasi bilan kirishingiz mumkin.Eslatma 'Log in'komandasi yuqorida. !!!";
+
+		}
+	</script>
+</head>
+<body>
+	<div class="tugmalar">
+		<button class="uy" onclick=window.location.href="index.html">Home</button>
+		<button class="kirish" onclick=window.location.href="kirmoq.html" >Log in</button>
+		<button class="ruyxatdan" onclick=window.location.href="o'tmoq.html">Sign in</button>
+		<button class="haqida" onclick=window.location.href="men.html">About</button>
+	</div>
+	<hr>
+
+	<h1 style="text-align: center;font-family: consolas;color: white;">Sign in</h1>
+
+
+	<div class="myForm">
+		<form style="text-align: center;">
+			<label style="color: white;" >Name:</label>
+			<input type="text" placeholder="Sizning ismingiz">
+			<label style="color: white;" >Familya:</label>
+			<input type="text" placeholder="Sizning familyangiz">
+			<label style="color: white;" >Taxallus:</label>
+			<input type="text" placeholder="Taxallusingizni kiriting">
+			<label style="color: white;" >Email:</label>
+			<input type="text" placeholder="Emailni kiriting">
+			<label style="color: white;">Password:</label>
+			<input type="password" placeholder="Parolni kiriting">
+			<label style="color: white;">Password:</label>
+			<input type="password" placeholder="Parolni kiriting">
+			<input type="button" value="Submit" class="submit" onclick="Showword()">
+
+
+		</form>
+
+	</div>
+	<h2 id="word"></h2>
+</body>
+</html>

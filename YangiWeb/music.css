@@ -1,0 +1,38 @@
+.soz {
+	text-align: center;
+	color: #fff;
+	font-family: consolas;
+}
+body {
+	background-image: url(orqa.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.fairytale {
+	width: 500px;
+	margin-left: 30px;
+}
+.get {
+	width: 500px;
+	margin-left: 200px;
+}
+.kotik {
+	width: 500px;
+	margin-left: 30px;
+}
+.skies {
+	width: 500px;
+	margin-left: 200px;
+}
+.bliever {
+	width: 500px;
+	margin-left: 30px;
+}
+.rollwind {
+	width: 500px;
+	margin-left: 200px;
+}
+.shapeofyou {
+	width: 500px;
+	margin-left: 400px;
+}
